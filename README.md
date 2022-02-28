@@ -8,9 +8,6 @@
    App Cronometro.
 </h4>
 
-<h6 align="center">
-  bootcamp SujeitoProgramador
-</h6>
 
 <br/>
 
@@ -29,3 +26,4 @@
 
 
 # Projeto
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73802190/156034299-fd1c3892-9115-4161-a971-f50bf16aa13a.gif)
