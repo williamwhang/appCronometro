@@ -1,21 +1,11 @@
 <h1 align="center">
   <br>
   <br>
-  App Cronometro
+  App Cronometro ⏱️
 </h1>
-
-<h4 align="center">
-   App Cronometro.
-</h4>
 
 
 <br/>
-
-<p align="center">
-  <a href="#Pre-Requisitos">Pre-requisitos</a> |
-  <a href="#Instalação">Instalação</a> |
-  <a href="#Usabilidade">Usabildiade</a>
-</p>
 
 # Pre-Requisitos
 
